@@ -21,7 +21,7 @@ function AdviceComponent() {
   }, []);
 
   return (
-    <div className=" adviceContainer flex justify-center items-center">
+    <div className=" adviceContainer flex justify-center items-center h-screen">
       <div className="adviceBox text-center relative transition-all duration-500 ease-in-out shadow-[0px_0px_33px_1px_rgba(0,0,0,0.3)]">
         <p id="adviceID" className="adviceNumber tracking-widest">
           ADVICE #{adviceID}
