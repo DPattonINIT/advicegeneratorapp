@@ -1,8 +1,19 @@
-# React + Vite
+// name 
+Darryl P.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ // Date Revised: 
+2/28/2025
 
-Currently, two official plugins are available:
+ // Exercise 
+Advice APP builder
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ // Brief Description of what you did. 
+I created an App that fetches random advice quotes from the Advice Slip API. I built the App using React components. I also added favicon, and an animated loading dot to enhance the user experience when fetching new advice.
+
+ // Peer Review:
+
+
+
+
+
+//Vercel:

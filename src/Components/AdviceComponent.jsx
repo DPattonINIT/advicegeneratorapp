@@ -32,8 +32,8 @@ function AdviceComponent() {
         </p>
         <div className="absolute bottom-16 left-0 w-full flex justify-center">
           {" "}
-          <img className="md:hidden" src="./images/pattern-divider-desktop.svg" alt="line divider" />
-          <img className="hidden md:block w-[90%]" src="./images/pattern-divider-mobile.svg" alt="line divider" />
+          <img className="md:hidden" src="/images/pattern-divider-desktop.svg" alt="line divider" />
+          <img className="hidden md:block w-[90%]" src="/images/pattern-divider-mobile.svg" alt="line divider" />
           
         </div>
         <ButtonComponent fetchAdvice={fetchAdvice} />
