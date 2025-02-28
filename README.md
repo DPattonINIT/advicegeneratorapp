@@ -16,4 +16,8 @@ I created an App that fetches random advice quotes from the Advice Slip API. I b
 
 
 
-//Vercel:
+//Vercel Domain:
+advicegeneratorapp-swart.vercel.app
+
+//GitHub:
+https://github.com/DPattonINIT/advicegeneratorapp.git
