@@ -1,0 +1,44 @@
+@import "tailwindcss";
+@font-face {
+  font-family: Manrope;
+  src: url(/public/font/Manrope/Manrope-VariableFont_wght.ttf);
+}
+
+body{
+  background-color: hsl(218, 21%, 16%);
+}
+.adviceContainer{
+  height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.adviceBox{
+height: 350px;
+width: 600px;
+background-color: hsl(219, 19%, 24%);
+border-radius: 20px;
+font-family: Manrope;
+font-weight: 800;
+}
+.adviceNumber{
+  color: hsl(150, 100%, 66%);
+  margin-top: 40px;
+  font-family: Manrope;
+  font-weight: bold;
+}
+.adviceQuote{
+  color: hsl(193, 38%, 86%);
+ padding-bottom: 30px;
+  padding-top: 25px;
+}
+.buttonCircle{
+  background-color: hsl(150, 100%, 66%);
+  border-radius: 50%;
+  width: 60px; 
+  height: 60px;
+  position: absolute;
+  top: 320px;
+}
